@@ -12,3 +12,5 @@ MySQL
 Sequelize
 Insomnia
 
+Video Link
+https://youtu.be/tjXvEenIx4g
